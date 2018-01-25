@@ -1,6 +1,3 @@
-# Azteco
-Ejemplo de Blockchain, Cripto moneda, basado en bitcoin, es un fork de https://github.com/cosme12/SimpleCoin
-
 # AZTECO
 
 This a fork from https://github.com/cosme12/SimpleCoin we use it in Mexico to explain how the things works for Blockchain and Crypto currencies.
